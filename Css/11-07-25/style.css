@@ -1,0 +1,25 @@
+* {
+  background-color: bisque;
+}
+h1 {
+  color: blue;
+}
+#heading1 {
+  color: pink;
+}
+.myfirstClass {
+  color: red;
+  background-color: aquamarine;
+}
+p > a {
+  color: red;
+}
+div a {
+  color: yellow;
+}
+input[type="text"] {
+  height: 100px;
+  width: 300px;
+}
+
+

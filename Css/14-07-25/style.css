@@ -1,0 +1,22 @@
+* {
+  /* background-color: blueviolet; */
+}
+h1 {
+  color: red;
+}
+p {
+  color: red;
+}
+#heading {
+  color: blue;
+}
+.ele {
+  color: yellow;
+}
+input[type="password"] {
+  height: 100px;
+  width: 300px;
+}
+div  p {
+  color: yellow;
+}

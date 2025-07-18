@@ -1,0 +1,36 @@
+html {
+  font-size: 30px;
+}
+h1 {
+  width: 200px;
+  background-color: red;
+}
+header {
+  height: 100px;
+  width: 50%;
+  background-color: aquamarine;
+}
+div {
+  height: 500px;
+  width: 500px;
+  background-color: blue;
+}
+p {
+  height: 50%;
+  width: 50%;
+  background-color: antiquewhite;
+}
+#para {
+  width: 100%;
+  background-color: red;
+  font-size: 20px;
+}
+#para > section {
+  /* 20*2 = 40px */
+  font-size: 2em;
+  padding: 3em;
+}
+/* rem */
+footer {
+  font-size: 2rem;
+}

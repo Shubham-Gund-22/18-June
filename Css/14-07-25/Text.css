@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+VN+Guides&display=swap");
+h1 {
+  /* text-align center , left , right */
+  text-align: right;
+}
+p {
+  font-size: 20px;
+  color: aqua;
+  /* text-transform: capitalize; */
+  /* text-transform: uppercase; */
+  text-transform: lowercase;
+  /* font-weight: 800; */
+  font-family: "Playwrite VN Guides";
+}
